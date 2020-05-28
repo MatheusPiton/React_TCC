@@ -1,0 +1,17 @@
+.calculadora {
+    height: 320px;
+    width: 235px;
+    border-radius: 5px;
+    overflow: hidden;
+    background-color: #0489B1;
+}
+
+body {
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+
+    color: #FFF;
+}

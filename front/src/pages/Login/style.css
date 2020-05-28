@@ -1,0 +1,39 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: #FFF;
+    background: #FFF;
+  }
+
+.container {
+    height: 500px;
+    width: 500px;
+    margin-top: 50px;
+    overflow: hidden;
+    background: #0489B1;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+
+h1 {
+    margin-bottom: 50px;
+    color: #000;
+}
+
+.iconU {
+    margin-top: -32px;
+    margin-left: -280px;
+    color: #000;
+}
+
+.iconS {
+    margin-top: -32px;
+    margin-left: -280px;
+    color: #000;
+}
